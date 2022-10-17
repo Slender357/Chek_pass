@@ -1,0 +1,12 @@
+spreadsheet_id: ***
+credentials_file: creds.json
+url: https://reestr.ovga.mos.ru/
+seria: /html/body/div[1]/form/div[1]/div[1]/div/select
+captcha: /html/body/div[1]/form/div[2]/div/div[2]/input
+car: /html/body/div[1]/form/div[1]/div[3]/div/input
+buttom_search: /html/body/div[1]/form/div[2]/div/button
+sheet: Пропуска
+sheetId: ***
+telegram_bot_token: ***
+chat_id: ***
+RUCAPTCHA_KEY: ***
